@@ -1,0 +1,16 @@
+defaults:
+  - _self_
+  
+
+_target_: src.models.components.extractors.ParallelFeatureExtractor
+XCorrExt:
+  _target_: src.models.components.opus_extractors.XCorrExt
+  N: 320
+  H: 160
+  TAU: 257
+IFExt:
+  _target_: src.models.components.opus_extractors.IFExt
+  N: 320
+  H: 160
+  N_freq: 30
+

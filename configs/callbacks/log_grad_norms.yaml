@@ -1,0 +1,2 @@
+log_grad_norms:
+  _target_: src.utils.callbacks.LogGradNorms

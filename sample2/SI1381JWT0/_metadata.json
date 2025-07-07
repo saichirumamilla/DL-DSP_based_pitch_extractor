@@ -1,0 +1,664 @@
+{
+  "birth_date": "03/25/53",
+  "comments": "",
+  "dialect": "New England",
+  "education": "Bachelor's Degree (BS or BA)",
+  "height": 1.9050000000000002,
+  "phoneme_times": [
+    {
+      "start": 0,
+      "stop": 2180,
+      "text": "h#\n"
+    },
+    {
+      "start": 2180,
+      "stop": 2506,
+      "text": "b\n"
+    },
+    {
+      "start": 2506,
+      "stop": 3480,
+      "text": "ah\n"
+    },
+    {
+      "start": 3480,
+      "stop": 5480,
+      "text": "tcl\n"
+    },
+    {
+      "start": 5480,
+      "stop": 5800,
+      "text": "b\n"
+    },
+    {
+      "start": 5800,
+      "stop": 6573,
+      "text": "r\n"
+    },
+    {
+      "start": 6573,
+      "stop": 8120,
+      "text": "iy\n"
+    },
+    {
+      "start": 8120,
+      "stop": 9775,
+      "text": "f\n"
+    },
+    {
+      "start": 9775,
+      "stop": 10170,
+      "text": "epi\n"
+    },
+    {
+      "start": 10170,
+      "stop": 11193,
+      "text": "l\n"
+    },
+    {
+      "start": 11193,
+      "stop": 13240,
+      "text": "iy\n"
+    },
+    {
+      "start": 13240,
+      "stop": 16780,
+      "text": "pau\n"
+    },
+    {
+      "start": 16780,
+      "stop": 16920,
+      "text": "dh\n"
+    },
+    {
+      "start": 16920,
+      "stop": 17720,
+      "text": "ax\n"
+    },
+    {
+      "start": 17720,
+      "stop": 18800,
+      "text": "tcl\n"
+    },
+    {
+      "start": 18800,
+      "stop": 19590,
+      "text": "t\n"
+    },
+    {
+      "start": 19590,
+      "stop": 21640,
+      "text": "aa\n"
+    },
+    {
+      "start": 21640,
+      "stop": 22260,
+      "text": "pcl\n"
+    },
+    {
+      "start": 22260,
+      "stop": 22780,
+      "text": "p\n"
+    },
+    {
+      "start": 22780,
+      "stop": 23813,
+      "text": "iy\n"
+    },
+    {
+      "start": 23813,
+      "stop": 24544,
+      "text": "ng\n"
+    },
+    {
+      "start": 24544,
+      "stop": 25290,
+      "text": "kcl\n"
+    },
+    {
+      "start": 25290,
+      "stop": 25840,
+      "text": "k\n"
+    },
+    {
+      "start": 25840,
+      "stop": 26480,
+      "text": "ix\n"
+    },
+    {
+      "start": 26480,
+      "stop": 27136,
+      "text": "n\n"
+    },
+    {
+      "start": 27136,
+      "stop": 29000,
+      "text": "f\n"
+    },
+    {
+      "start": 29000,
+      "stop": 30328,
+      "text": "ih\n"
+    },
+    {
+      "start": 30328,
+      "stop": 30820,
+      "text": "gcl\n"
+    },
+    {
+      "start": 30820,
+      "stop": 31238,
+      "text": "g\n"
+    },
+    {
+      "start": 31238,
+      "stop": 31791,
+      "text": "y\n"
+    },
+    {
+      "start": 31791,
+      "stop": 33253,
+      "text": "axr\n"
+    },
+    {
+      "start": 33253,
+      "stop": 35010,
+      "text": "ey\n"
+    },
+    {
+      "start": 35010,
+      "stop": 36800,
+      "text": "sh\n"
+    },
+    {
+      "start": 36800,
+      "stop": 37900,
+      "text": "en\n"
+    },
+    {
+      "start": 37900,
+      "stop": 39400,
+      "text": "m\n"
+    },
+    {
+      "start": 39400,
+      "stop": 40830,
+      "text": "ah\n"
+    },
+    {
+      "start": 40830,
+      "stop": 41980,
+      "text": "s\n"
+    },
+    {
+      "start": 41980,
+      "stop": 42970,
+      "text": "tcl\n"
+    },
+    {
+      "start": 42970,
+      "stop": 43200,
+      "text": "b\n"
+    },
+    {
+      "start": 43200,
+      "stop": 44215,
+      "text": "iy\n"
+    },
+    {
+      "start": 44215,
+      "stop": 45160,
+      "text": "ix\n"
+    },
+    {
+      "start": 45160,
+      "stop": 45550,
+      "text": "gcl\n"
+    },
+    {
+      "start": 45550,
+      "stop": 45845,
+      "text": "g\n"
+    },
+    {
+      "start": 45845,
+      "stop": 47420,
+      "text": "z\n"
+    },
+    {
+      "start": 47420,
+      "stop": 50118,
+      "text": "ae\n"
+    },
+    {
+      "start": 50118,
+      "stop": 51359,
+      "text": "m\n"
+    },
+    {
+      "start": 51359,
+      "stop": 52120,
+      "text": "ix\n"
+    },
+    {
+      "start": 52120,
+      "stop": 53400,
+      "text": "n\n"
+    },
+    {
+      "start": 53400,
+      "stop": 55590,
+      "text": "f\n"
+    },
+    {
+      "start": 55590,
+      "stop": 56456,
+      "text": "ao\n"
+    },
+    {
+      "start": 56456,
+      "stop": 57480,
+      "text": "axr\n"
+    },
+    {
+      "start": 57480,
+      "stop": 58160,
+      "text": "tcl\n"
+    },
+    {
+      "start": 58160,
+      "stop": 59210,
+      "text": "s\n"
+    },
+    {
+      "start": 59210,
+      "stop": 60520,
+      "text": "ih\n"
+    },
+    {
+      "start": 60520,
+      "stop": 61260,
+      "text": "n\n"
+    },
+    {
+      "start": 61260,
+      "stop": 63350,
+      "text": "f\n"
+    },
+    {
+      "start": 63350,
+      "stop": 64184,
+      "text": "axr\n"
+    },
+    {
+      "start": 64184,
+      "stop": 64726,
+      "text": "ix\n"
+    },
+    {
+      "start": 64726,
+      "stop": 66000,
+      "text": "n\n"
+    },
+    {
+      "start": 66000,
+      "stop": 67600,
+      "text": "s\n"
+    },
+    {
+      "start": 67600,
+      "stop": 69290,
+      "text": "ix\n"
+    },
+    {
+      "start": 69290,
+      "stop": 71950,
+      "text": "s\n"
+    },
+    {
+      "start": 71950,
+      "stop": 74160,
+      "text": "h#\n"
+    }
+  ],
+  "phonetic_codes": [
+    "/b ah1 t/",
+    "/dh ax/",
+    "/t aa1 p ix ng/",
+    "/k ax n f ih2 g y axr ey1 sh ix n/",
+    "/m ah1 s t/",
+    "/b iy1/",
+    "/ih g z ae1 m ix n d/",
+    "/f ao1 r/",
+    "/ih1 t s/"
+  ],
+  "race": "White",
+  "recording_date": "02/26/86",
+  "sentence": "But briefly, the topping configuration must be examined for its inferences.",
+  "sentence_id": "SI1381",
+  "sentence_time": {
+    "start": 0,
+    "stop": 74240,
+    "text": "But briefly, the topping configuration must be examined for its inferences.\n"
+  },
+  "sex": "M",
+  "speaker_id": "JWT0",
+  "use": "System training speaker",
+  "word_times": [
+    {
+      "start": 0,
+      "stop": 2180,
+      "text": "h#\n"
+    },
+    {
+      "start": 2180,
+      "stop": 2506,
+      "text": "b\n"
+    },
+    {
+      "start": 2506,
+      "stop": 3480,
+      "text": "ah\n"
+    },
+    {
+      "start": 3480,
+      "stop": 5480,
+      "text": "tcl\n"
+    },
+    {
+      "start": 5480,
+      "stop": 5800,
+      "text": "b\n"
+    },
+    {
+      "start": 5800,
+      "stop": 6573,
+      "text": "r\n"
+    },
+    {
+      "start": 6573,
+      "stop": 8120,
+      "text": "iy\n"
+    },
+    {
+      "start": 8120,
+      "stop": 9775,
+      "text": "f\n"
+    },
+    {
+      "start": 9775,
+      "stop": 10170,
+      "text": "epi\n"
+    },
+    {
+      "start": 10170,
+      "stop": 11193,
+      "text": "l\n"
+    },
+    {
+      "start": 11193,
+      "stop": 13240,
+      "text": "iy\n"
+    },
+    {
+      "start": 13240,
+      "stop": 16780,
+      "text": "pau\n"
+    },
+    {
+      "start": 16780,
+      "stop": 16920,
+      "text": "dh\n"
+    },
+    {
+      "start": 16920,
+      "stop": 17720,
+      "text": "ax\n"
+    },
+    {
+      "start": 17720,
+      "stop": 18800,
+      "text": "tcl\n"
+    },
+    {
+      "start": 18800,
+      "stop": 19590,
+      "text": "t\n"
+    },
+    {
+      "start": 19590,
+      "stop": 21640,
+      "text": "aa\n"
+    },
+    {
+      "start": 21640,
+      "stop": 22260,
+      "text": "pcl\n"
+    },
+    {
+      "start": 22260,
+      "stop": 22780,
+      "text": "p\n"
+    },
+    {
+      "start": 22780,
+      "stop": 23813,
+      "text": "iy\n"
+    },
+    {
+      "start": 23813,
+      "stop": 24544,
+      "text": "ng\n"
+    },
+    {
+      "start": 24544,
+      "stop": 25290,
+      "text": "kcl\n"
+    },
+    {
+      "start": 25290,
+      "stop": 25840,
+      "text": "k\n"
+    },
+    {
+      "start": 25840,
+      "stop": 26480,
+      "text": "ix\n"
+    },
+    {
+      "start": 26480,
+      "stop": 27136,
+      "text": "n\n"
+    },
+    {
+      "start": 27136,
+      "stop": 29000,
+      "text": "f\n"
+    },
+    {
+      "start": 29000,
+      "stop": 30328,
+      "text": "ih\n"
+    },
+    {
+      "start": 30328,
+      "stop": 30820,
+      "text": "gcl\n"
+    },
+    {
+      "start": 30820,
+      "stop": 31238,
+      "text": "g\n"
+    },
+    {
+      "start": 31238,
+      "stop": 31791,
+      "text": "y\n"
+    },
+    {
+      "start": 31791,
+      "stop": 33253,
+      "text": "axr\n"
+    },
+    {
+      "start": 33253,
+      "stop": 35010,
+      "text": "ey\n"
+    },
+    {
+      "start": 35010,
+      "stop": 36800,
+      "text": "sh\n"
+    },
+    {
+      "start": 36800,
+      "stop": 37900,
+      "text": "en\n"
+    },
+    {
+      "start": 37900,
+      "stop": 39400,
+      "text": "m\n"
+    },
+    {
+      "start": 39400,
+      "stop": 40830,
+      "text": "ah\n"
+    },
+    {
+      "start": 40830,
+      "stop": 41980,
+      "text": "s\n"
+    },
+    {
+      "start": 41980,
+      "stop": 42970,
+      "text": "tcl\n"
+    },
+    {
+      "start": 42970,
+      "stop": 43200,
+      "text": "b\n"
+    },
+    {
+      "start": 43200,
+      "stop": 44215,
+      "text": "iy\n"
+    },
+    {
+      "start": 44215,
+      "stop": 45160,
+      "text": "ix\n"
+    },
+    {
+      "start": 45160,
+      "stop": 45550,
+      "text": "gcl\n"
+    },
+    {
+      "start": 45550,
+      "stop": 45845,
+      "text": "g\n"
+    },
+    {
+      "start": 45845,
+      "stop": 47420,
+      "text": "z\n"
+    },
+    {
+      "start": 47420,
+      "stop": 50118,
+      "text": "ae\n"
+    },
+    {
+      "start": 50118,
+      "stop": 51359,
+      "text": "m\n"
+    },
+    {
+      "start": 51359,
+      "stop": 52120,
+      "text": "ix\n"
+    },
+    {
+      "start": 52120,
+      "stop": 53400,
+      "text": "n\n"
+    },
+    {
+      "start": 53400,
+      "stop": 55590,
+      "text": "f\n"
+    },
+    {
+      "start": 55590,
+      "stop": 56456,
+      "text": "ao\n"
+    },
+    {
+      "start": 56456,
+      "stop": 57480,
+      "text": "axr\n"
+    },
+    {
+      "start": 57480,
+      "stop": 58160,
+      "text": "tcl\n"
+    },
+    {
+      "start": 58160,
+      "stop": 59210,
+      "text": "s\n"
+    },
+    {
+      "start": 59210,
+      "stop": 60520,
+      "text": "ih\n"
+    },
+    {
+      "start": 60520,
+      "stop": 61260,
+      "text": "n\n"
+    },
+    {
+      "start": 61260,
+      "stop": 63350,
+      "text": "f\n"
+    },
+    {
+      "start": 63350,
+      "stop": 64184,
+      "text": "axr\n"
+    },
+    {
+      "start": 64184,
+      "stop": 64726,
+      "text": "ix\n"
+    },
+    {
+      "start": 64726,
+      "stop": 66000,
+      "text": "n\n"
+    },
+    {
+      "start": 66000,
+      "stop": 67600,
+      "text": "s\n"
+    },
+    {
+      "start": 67600,
+      "stop": 69290,
+      "text": "ix\n"
+    },
+    {
+      "start": 69290,
+      "stop": 71950,
+      "text": "s\n"
+    },
+    {
+      "start": 71950,
+      "stop": 74160,
+      "text": "h#\n"
+    }
+  ]
+}

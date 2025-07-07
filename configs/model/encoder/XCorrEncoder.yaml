@@ -1,0 +1,7 @@
+ XCorrEncoder:
+    _target_: src.models.components.encoders.XCorrEncoder
+    input_size: 224
+    num_channels: 8
+    activation: 
+        _target_: torch.nn.Tanh
+        _partial_: true

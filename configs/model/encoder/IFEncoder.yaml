@@ -1,0 +1,9 @@
+IFEncoder:
+    _target_: src.models.components.encoders.IFEncoder
+    input_size: 90
+    output_size: 64
+    activation: 
+        _target_: torch.nn.Tanh
+        _partial_: true
+
+    

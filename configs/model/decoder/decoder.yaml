@@ -1,0 +1,13 @@
+_target_: src.models.components.decoders.GRUDecoder
+_partial_: True
+hidden_size: 64
+output_size: 180
+min_freq: 62.5
+max_freq: 500
+activation: 
+  _target_: torch.nn.Tanh
+  _partial_: true
+   
+      
+
+   

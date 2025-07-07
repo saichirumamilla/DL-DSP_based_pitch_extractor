@@ -1,0 +1,22 @@
+_target_: src.data.mocha_timit_datamodule.MTIMITDataModule
+data_dir: data/
+dataset: TIMIT # TIMIT or MOCHA_TIMIT or KEELE or FDA_sr20
+corpora_dir: null
+target_freq: 16000
+slice_length: 1
+slice: True
+frame_rate: 100
+output_type: class_label
+batch_size: 64 # Needs to be divisible by the number of devices (e.g., if in a distributed setup)
+train_val_test_split: [0.8, 0.1, 0.1]
+drop_last: True
+num_workers: 8 
+pin_memory: true
+persistent_workers: true
+transforms:
+  _target_: src.data.components.transforms.aug_noise
+  _partial_: true
+  snr_db: 10
+  apply_noise: False
+  noise_dir: data/noise/demand_test    # Path to the noise directory, can add other noise types into nosie folder
+

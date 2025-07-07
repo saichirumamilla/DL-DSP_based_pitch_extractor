@@ -1,0 +1,746 @@
+{
+  "algo": "consensus",
+  "birth_date": "05/25/61",
+  "comments": "",
+  "dialect": "South Midland",
+  "education": "Master's Degree (MS or MA)",
+  "height": 1.5748,
+  "noise_dataset": null,
+  "phoneme_times": [
+    {
+      "start": 0,
+      "stop": 2058,
+      "text": "h#\n"
+    },
+    {
+      "start": 2058,
+      "stop": 2634,
+      "text": "hh\n"
+    },
+    {
+      "start": 2634,
+      "stop": 3480,
+      "text": "iy\n"
+    },
+    {
+      "start": 3480,
+      "stop": 4166,
+      "text": "kcl\n"
+    },
+    {
+      "start": 4166,
+      "stop": 5216,
+      "text": "k\n"
+    },
+    {
+      "start": 5216,
+      "stop": 7979,
+      "text": "ae\n"
+    },
+    {
+      "start": 7979,
+      "stop": 9160,
+      "text": "n\n"
+    },
+    {
+      "start": 9160,
+      "stop": 10272,
+      "text": "f\n"
+    },
+    {
+      "start": 10272,
+      "stop": 10861,
+      "text": "ao\n"
+    },
+    {
+      "start": 10861,
+      "stop": 11446,
+      "text": "r\n"
+    },
+    {
+      "start": 11446,
+      "stop": 11920,
+      "text": "ix\n"
+    },
+    {
+      "start": 11920,
+      "stop": 12672,
+      "text": "gcl\n"
+    },
+    {
+      "start": 12672,
+      "stop": 13120,
+      "text": "g\n"
+    },
+    {
+      "start": 13120,
+      "stop": 14197,
+      "text": "z\n"
+    },
+    {
+      "start": 14197,
+      "stop": 16320,
+      "text": "ae\n"
+    },
+    {
+      "start": 16320,
+      "stop": 16835,
+      "text": "m\n"
+    },
+    {
+      "start": 16835,
+      "stop": 17237,
+      "text": "pcl\n"
+    },
+    {
+      "start": 17237,
+      "stop": 17557,
+      "text": "p\n"
+    },
+    {
+      "start": 17557,
+      "stop": 20090,
+      "text": "el\n"
+    },
+    {
+      "start": 20090,
+      "stop": 21536,
+      "text": "pau\n"
+    },
+    {
+      "start": 21536,
+      "stop": 22026,
+      "text": "p\n"
+    },
+    {
+      "start": 22026,
+      "stop": 22400,
+      "text": "ix\n"
+    },
+    {
+      "start": 22400,
+      "stop": 24160,
+      "text": "z\n"
+    },
+    {
+      "start": 24160,
+      "stop": 25840,
+      "text": "eh\n"
+    },
+    {
+      "start": 25840,
+      "stop": 26314,
+      "text": "n\n"
+    },
+    {
+      "start": 26314,
+      "stop": 28309,
+      "text": "tcl\n"
+    },
+    {
+      "start": 28309,
+      "stop": 28546,
+      "text": "t\n"
+    },
+    {
+      "start": 28546,
+      "stop": 30208,
+      "text": "s\n"
+    },
+    {
+      "start": 30208,
+      "stop": 30650,
+      "text": "ix\n"
+    },
+    {
+      "start": 30650,
+      "stop": 31440,
+      "text": "gcl\n"
+    },
+    {
+      "start": 31440,
+      "stop": 32640,
+      "text": "n\n"
+    },
+    {
+      "start": 32640,
+      "stop": 33632,
+      "text": "ih\n"
+    },
+    {
+      "start": 33632,
+      "stop": 34944,
+      "text": "f\n"
+    },
+    {
+      "start": 34944,
+      "stop": 35425,
+      "text": "ix\n"
+    },
+    {
+      "start": 35425,
+      "stop": 36192,
+      "text": "kcl\n"
+    },
+    {
+      "start": 36192,
+      "stop": 36885,
+      "text": "k\n"
+    },
+    {
+      "start": 36885,
+      "stop": 37680,
+      "text": "ih\n"
+    },
+    {
+      "start": 37680,
+      "stop": 38294,
+      "text": "n\n"
+    },
+    {
+      "start": 38294,
+      "stop": 39210,
+      "text": "tcl\n"
+    },
+    {
+      "start": 39210,
+      "stop": 39727,
+      "text": "y\n"
+    },
+    {
+      "start": 39727,
+      "stop": 40760,
+      "text": "ux\n"
+    },
+    {
+      "start": 40760,
+      "stop": 41320,
+      "text": "nx\n"
+    },
+    {
+      "start": 41320,
+      "stop": 42109,
+      "text": "ix\n"
+    },
+    {
+      "start": 42109,
+      "stop": 43320,
+      "text": "v\n"
+    },
+    {
+      "start": 43320,
+      "stop": 44885,
+      "text": "er\n"
+    },
+    {
+      "start": 44885,
+      "stop": 46056,
+      "text": "s\n"
+    },
+    {
+      "start": 46056,
+      "stop": 46720,
+      "text": "ax-h\n"
+    },
+    {
+      "start": 46720,
+      "stop": 47424,
+      "text": "dcl\n"
+    },
+    {
+      "start": 47424,
+      "stop": 47637,
+      "text": "d\n"
+    },
+    {
+      "start": 47637,
+      "stop": 48813,
+      "text": "iy\n"
+    },
+    {
+      "start": 48813,
+      "stop": 50902,
+      "text": "w\n"
+    },
+    {
+      "start": 50902,
+      "stop": 53480,
+      "text": "ay\n"
+    },
+    {
+      "start": 53480,
+      "stop": 54160,
+      "text": "dcl\n"
+    },
+    {
+      "start": 54160,
+      "stop": 54360,
+      "text": "d\n"
+    },
+    {
+      "start": 54360,
+      "stop": 55455,
+      "text": "q\n"
+    },
+    {
+      "start": 55455,
+      "stop": 56480,
+      "text": "ih\n"
+    },
+    {
+      "start": 56480,
+      "stop": 58592,
+      "text": "sh\n"
+    },
+    {
+      "start": 58592,
+      "stop": 59720,
+      "text": "ux\n"
+    },
+    {
+      "start": 59720,
+      "stop": 61126,
+      "text": "z\n"
+    },
+    {
+      "start": 61126,
+      "stop": 61802,
+      "text": "tcl\n"
+    },
+    {
+      "start": 61802,
+      "stop": 62517,
+      "text": "t\n"
+    },
+    {
+      "start": 62517,
+      "stop": 63045,
+      "text": "ix\n"
+    },
+    {
+      "start": 63045,
+      "stop": 64031,
+      "text": "dh\n"
+    },
+    {
+      "start": 64031,
+      "stop": 64650,
+      "text": "ix\n"
+    },
+    {
+      "start": 64650,
+      "stop": 67061,
+      "text": "s\n"
+    },
+    {
+      "start": 67061,
+      "stop": 68113,
+      "text": "eh\n"
+    },
+    {
+      "start": 68113,
+      "stop": 68865,
+      "text": "n\n"
+    },
+    {
+      "start": 68865,
+      "stop": 69972,
+      "text": "ax\n"
+    },
+    {
+      "start": 69972,
+      "stop": 71349,
+      "text": "tcl\n"
+    },
+    {
+      "start": 71349,
+      "stop": 72333,
+      "text": "t\n"
+    },
+    {
+      "start": 72333,
+      "stop": 74160,
+      "text": "h#\n"
+    }
+  ],
+  "phonetic_codes": [
+    "/hh iy1/",
+    "/f ao1 r/",
+    "/s ih g n ih1 f ix k ax n t/",
+    "/y uw1 n ix v er1 s ix t iy w ay1 d/",
+    "/ih1 sh uw z/",
+    "/t uw1/",
+    "/dh ax/"
+  ],
+  "race": "White",
+  "recording_date": "02/14/86",
+  "sentence": "He can, for example, present significant university-wide issues to the senate.",
+  "sentence_id": "SI1300",
+  "sentence_time": {
+    "start": 0,
+    "stop": 74240,
+    "text": "He can, for example, present significant university-wide issues to the senate.\n"
+  },
+  "sex": "F",
+  "speaker_id": "SAK0",
+  "speech": "SI1300SAK0",
+  "speech_dataset": "timit",
+  "use": "System training speaker",
+  "word_times": [
+    {
+      "start": 0,
+      "stop": 2058,
+      "text": "h#\n"
+    },
+    {
+      "start": 2058,
+      "stop": 2634,
+      "text": "hh\n"
+    },
+    {
+      "start": 2634,
+      "stop": 3480,
+      "text": "iy\n"
+    },
+    {
+      "start": 3480,
+      "stop": 4166,
+      "text": "kcl\n"
+    },
+    {
+      "start": 4166,
+      "stop": 5216,
+      "text": "k\n"
+    },
+    {
+      "start": 5216,
+      "stop": 7979,
+      "text": "ae\n"
+    },
+    {
+      "start": 7979,
+      "stop": 9160,
+      "text": "n\n"
+    },
+    {
+      "start": 9160,
+      "stop": 10272,
+      "text": "f\n"
+    },
+    {
+      "start": 10272,
+      "stop": 10861,
+      "text": "ao\n"
+    },
+    {
+      "start": 10861,
+      "stop": 11446,
+      "text": "r\n"
+    },
+    {
+      "start": 11446,
+      "stop": 11920,
+      "text": "ix\n"
+    },
+    {
+      "start": 11920,
+      "stop": 12672,
+      "text": "gcl\n"
+    },
+    {
+      "start": 12672,
+      "stop": 13120,
+      "text": "g\n"
+    },
+    {
+      "start": 13120,
+      "stop": 14197,
+      "text": "z\n"
+    },
+    {
+      "start": 14197,
+      "stop": 16320,
+      "text": "ae\n"
+    },
+    {
+      "start": 16320,
+      "stop": 16835,
+      "text": "m\n"
+    },
+    {
+      "start": 16835,
+      "stop": 17237,
+      "text": "pcl\n"
+    },
+    {
+      "start": 17237,
+      "stop": 17557,
+      "text": "p\n"
+    },
+    {
+      "start": 17557,
+      "stop": 20090,
+      "text": "el\n"
+    },
+    {
+      "start": 20090,
+      "stop": 21536,
+      "text": "pau\n"
+    },
+    {
+      "start": 21536,
+      "stop": 22026,
+      "text": "p\n"
+    },
+    {
+      "start": 22026,
+      "stop": 22400,
+      "text": "ix\n"
+    },
+    {
+      "start": 22400,
+      "stop": 24160,
+      "text": "z\n"
+    },
+    {
+      "start": 24160,
+      "stop": 25840,
+      "text": "eh\n"
+    },
+    {
+      "start": 25840,
+      "stop": 26314,
+      "text": "n\n"
+    },
+    {
+      "start": 26314,
+      "stop": 28309,
+      "text": "tcl\n"
+    },
+    {
+      "start": 28309,
+      "stop": 28546,
+      "text": "t\n"
+    },
+    {
+      "start": 28546,
+      "stop": 30208,
+      "text": "s\n"
+    },
+    {
+      "start": 30208,
+      "stop": 30650,
+      "text": "ix\n"
+    },
+    {
+      "start": 30650,
+      "stop": 31440,
+      "text": "gcl\n"
+    },
+    {
+      "start": 31440,
+      "stop": 32640,
+      "text": "n\n"
+    },
+    {
+      "start": 32640,
+      "stop": 33632,
+      "text": "ih\n"
+    },
+    {
+      "start": 33632,
+      "stop": 34944,
+      "text": "f\n"
+    },
+    {
+      "start": 34944,
+      "stop": 35425,
+      "text": "ix\n"
+    },
+    {
+      "start": 35425,
+      "stop": 36192,
+      "text": "kcl\n"
+    },
+    {
+      "start": 36192,
+      "stop": 36885,
+      "text": "k\n"
+    },
+    {
+      "start": 36885,
+      "stop": 37680,
+      "text": "ih\n"
+    },
+    {
+      "start": 37680,
+      "stop": 38294,
+      "text": "n\n"
+    },
+    {
+      "start": 38294,
+      "stop": 39210,
+      "text": "tcl\n"
+    },
+    {
+      "start": 39210,
+      "stop": 39727,
+      "text": "y\n"
+    },
+    {
+      "start": 39727,
+      "stop": 40760,
+      "text": "ux\n"
+    },
+    {
+      "start": 40760,
+      "stop": 41320,
+      "text": "nx\n"
+    },
+    {
+      "start": 41320,
+      "stop": 42109,
+      "text": "ix\n"
+    },
+    {
+      "start": 42109,
+      "stop": 43320,
+      "text": "v\n"
+    },
+    {
+      "start": 43320,
+      "stop": 44885,
+      "text": "er\n"
+    },
+    {
+      "start": 44885,
+      "stop": 46056,
+      "text": "s\n"
+    },
+    {
+      "start": 46056,
+      "stop": 46720,
+      "text": "ax-h\n"
+    },
+    {
+      "start": 46720,
+      "stop": 47424,
+      "text": "dcl\n"
+    },
+    {
+      "start": 47424,
+      "stop": 47637,
+      "text": "d\n"
+    },
+    {
+      "start": 47637,
+      "stop": 48813,
+      "text": "iy\n"
+    },
+    {
+      "start": 48813,
+      "stop": 50902,
+      "text": "w\n"
+    },
+    {
+      "start": 50902,
+      "stop": 53480,
+      "text": "ay\n"
+    },
+    {
+      "start": 53480,
+      "stop": 54160,
+      "text": "dcl\n"
+    },
+    {
+      "start": 54160,
+      "stop": 54360,
+      "text": "d\n"
+    },
+    {
+      "start": 54360,
+      "stop": 55455,
+      "text": "q\n"
+    },
+    {
+      "start": 55455,
+      "stop": 56480,
+      "text": "ih\n"
+    },
+    {
+      "start": 56480,
+      "stop": 58592,
+      "text": "sh\n"
+    },
+    {
+      "start": 58592,
+      "stop": 59720,
+      "text": "ux\n"
+    },
+    {
+      "start": 59720,
+      "stop": 61126,
+      "text": "z\n"
+    },
+    {
+      "start": 61126,
+      "stop": 61802,
+      "text": "tcl\n"
+    },
+    {
+      "start": 61802,
+      "stop": 62517,
+      "text": "t\n"
+    },
+    {
+      "start": 62517,
+      "stop": 63045,
+      "text": "ix\n"
+    },
+    {
+      "start": 63045,
+      "stop": 64031,
+      "text": "dh\n"
+    },
+    {
+      "start": 64031,
+      "stop": 64650,
+      "text": "ix\n"
+    },
+    {
+      "start": 64650,
+      "stop": 67061,
+      "text": "s\n"
+    },
+    {
+      "start": 67061,
+      "stop": 68113,
+      "text": "eh\n"
+    },
+    {
+      "start": 68113,
+      "stop": 68865,
+      "text": "n\n"
+    },
+    {
+      "start": 68865,
+      "stop": 69972,
+      "text": "ax\n"
+    },
+    {
+      "start": 69972,
+      "stop": 71349,
+      "text": "tcl\n"
+    },
+    {
+      "start": 71349,
+      "stop": 72333,
+      "text": "t\n"
+    },
+    {
+      "start": 72333,
+      "stop": 74160,
+      "text": "h#\n"
+    }
+  ]
+}
